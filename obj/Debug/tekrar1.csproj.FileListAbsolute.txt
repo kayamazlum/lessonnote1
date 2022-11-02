@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\nDers1\tekrar1\bin\Debug\tekrar1.exe.config
+C:\Users\ASUS\source\repos\nDers1\tekrar1\bin\Debug\tekrar1.exe
+C:\Users\ASUS\source\repos\nDers1\tekrar1\bin\Debug\tekrar1.pdb
+C:\Users\ASUS\source\repos\nDers1\tekrar1\obj\Debug\tekrar1.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\nDers1\tekrar1\obj\Debug\tekrar1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\nDers1\tekrar1\obj\Debug\tekrar1.Form1.resources
+C:\Users\ASUS\source\repos\nDers1\tekrar1\obj\Debug\tekrar1.Properties.Resources.resources
+C:\Users\ASUS\source\repos\nDers1\tekrar1\obj\Debug\tekrar1.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\nDers1\tekrar1\obj\Debug\tekrar1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\nDers1\tekrar1\obj\Debug\tekrar1.exe
+C:\Users\ASUS\source\repos\nDers1\tekrar1\obj\Debug\tekrar1.pdb
